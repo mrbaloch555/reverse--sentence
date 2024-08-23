@@ -1,6 +1,6 @@
 {
-  "name": "reverse-sentence",
-  "version": "1.0.0",
+  "name": "@mrbaloch/reverse-sentence",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbaloch555/reverse--sentence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrbaloch555/reverse--sentence/issues"
+  },
+  "homepage": "https://github.com/mrbaloch555/reverse--sentence#readme"
 }

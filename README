@@ -5,7 +5,7 @@ Reverses the words of a sentence.
 ## Install
 
 ```sh
-npm install @npmusername/reverse-sentence
+npm install @mrbaloch/reverse-sentence
 ```
 
 ## API
